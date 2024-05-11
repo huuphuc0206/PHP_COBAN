@@ -1,0 +1,2 @@
+- Đây là thư mục chứa các code js, css của template
+- Chia làm 2 thư mục Client, Admin tương ứng

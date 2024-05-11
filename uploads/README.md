@@ -1,0 +1,1 @@
+Đây là thư mục chứ file hình ảnh của admin tải lên
